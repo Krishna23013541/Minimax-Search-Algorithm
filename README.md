@@ -113,7 +113,8 @@ end
 
 <hr>
 
-<h2>Program:</h2>
+<h3>Program:</h3>
+
 ```
 import time
 
